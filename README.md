@@ -1,5 +1,6 @@
-#Este es un repo de prueba
+# Este es un repo de prueba
 
-##Tipos de archivo
+## Tipos de archivo
 
 - html
+- css
